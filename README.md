@@ -14,7 +14,8 @@ Focused on Security Tips and “Opening the Door“ to the World of Digital Asse
   
   <li>💬 Ask me about crypto security tips, getting started with digital assets, and the Kin Community.</li>
   
-  <li>📫 How to reach me: me@ofidcryot.com or @OFiDCrypt on X</li>
+  <li>📫 How to reach me: me@ofidcrypt.com or [Follow me on 𝕏](https://www.x.com/ofidcrypt)
+</li>
   
   <li>⚡ Fun fact: I’m a verified 𝕏 Premium Subscriber, making crypto accessible to everyone, including mom, dad, grandma, and grandpa!</li>
 </ul>
