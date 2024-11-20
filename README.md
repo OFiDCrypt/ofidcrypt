@@ -1,6 +1,6 @@
 # OFiDCrypt : Profile 👋
 👾 **Crypto Enthusiast | Content Creator for Beginner to Intermediate levels:**
-Focused on Security Tips and “Opening the Door“ to the World of Digital Assets, with easy-to-understand fundamental knowledge rather than complex trading advice 📈
+Focused on Security Tips and “Opening the Door“ to the World of Digital Assets, with easy-to-understand fundamental knowledge rather than complex trading advice.
 
 🔤 **Simplifying crypto for everyone, empowering others to make their own financial investment decisions!**
 
