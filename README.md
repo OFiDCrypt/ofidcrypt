@@ -6,7 +6,7 @@ Pioneering #MicroEconomies with Bouncy Ball (e𝕏PB) token, creating accessible
 
 <ul>
   <li>🔭 I’m currently working on expanding #MicroEconomies, a Web3 framework where businesses offer e𝕏PB discounts, build reserves via network contributions, and gain lifetime exposure through OFiDCrypt’s live directory:
-www.ofidcrypt.com/promote/client-directory.html.</li>
+www.ofidcrypt.com/promote/client-directory.html</li>
   
   <li>🌱 I’m currently exploring advanced blockchain security and wallet app development to enhance our user-friendly tools.</li>
   
@@ -17,7 +17,8 @@ www.ofidcrypt.com/promote/client-directory.html.</li>
   <li>💬 Ask me about #MicroEconomies, e𝕏PB, Web3 security, or starting with digital commerce.</li>
   
   <li>📫 How to reach me:
-me@ofidcrypt.com or follow me on 𝕏 https://www.x.com/ofidcrypt</li>
+me@ofidcrypt.com
+Follow me on 𝕏 at https://www.x.com/ofidcrypt</li>
   
   <li>⚡ Fun fact: I’m a verified 𝕏 Premium Subscriber, making crypto as easy as cash for mom, dad, grandma, and grandpa through #MicroEconomies!</li>
 </ul>
